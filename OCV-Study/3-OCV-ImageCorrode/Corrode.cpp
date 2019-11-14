@@ -6,7 +6,7 @@ using namespace cv;
 
 int main()
 {
-	Mat srcImage = imread("F:\\MmVsPro\\OpenCV_dev\\ImageLib\\puzzle.png");
+	Mat srcImage = imread("../../ImageLib/puzzle.png");
 
 	imshow("¡¾Ô­Ê¼¡¿¸¯Ê´²Ù×÷", srcImage);
 
